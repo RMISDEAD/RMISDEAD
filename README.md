@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @RMISDEAD
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+RMISDEAD/RMISDEAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm Ronnie
+I want to learn as much about coding as humanly possible as fast as possible. And I'm starting from none.
+You can reach me at ronniemedina732@gmail.com 
